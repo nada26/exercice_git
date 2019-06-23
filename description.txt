@@ -1,1 +1,3 @@
 apprendre à utiliser le github
+
+modifier le text en ajoutant des information
